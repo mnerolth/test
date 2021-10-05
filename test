@@ -1,0 +1,119 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",*****ENGLAND CHANNEL*****
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3405
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:ITV 1
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3450
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:ITV 2
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3451
+#EXTINF:0 tvg-id="ITV3.uk" group-title="ENGLAND CHANNEL",UK:ITV 3
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3452
+#EXTINF:0 tvg-id="ITV4.uk" group-title="ENGLAND CHANNEL",UK:ITV 4
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3453
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:ITVBE
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3454
+#EXTINF:0 tvg-id="TLC.uk" group-title="ENGLAND CHANNEL",UK:TLC
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3496
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="ENGLAND CHANNEL",UK:SYFY
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3494
+#EXTINF:0 tvg-id="FX.uk" group-title="ENGLAND CHANNEL",UK:FOX
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3445
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:HBO HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3446
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:BBC ONE
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3412
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:BBC TWO
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3414
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:BBC 4 HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3411
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:SKY MOVIES SCI-FI HORROR HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3480
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:SKY MOVIES PREMIER HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3479
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:SKY MOVIES SCI-FI AND HORROR
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3477
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:SKY MOVIES GREATS HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3476
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:SKY MOVIES DRAMA ROMANCE
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3475
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:SKY MOVIES DISNEY HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3474
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:SKY MOVIES CRIME THRILLER HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3473
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:SKY MOVIES COMEDY HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3472
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:SKY MOVIES ACTION ADVENTURE HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3471
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:HBO COMEDY HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3447
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="ENGLAND CHANNEL",UK:BBC NEWS
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3440
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:CBS REALTY
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3429
+#EXTINF:0 tvg-id="CBSDrama.uk" group-title="ENGLAND CHANNEL",UK:CBS DRAMA
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3428
+#EXTINF:0 tvg-id="CBSAction.uk" group-title="ENGLAND CHANNEL",UK:CBS ACTION
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3427
+#EXTINF:0 tvg-id="BabyTV.uk" group-title="ENGLAND CHANNEL",UK:BABY TV
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3410
+#EXTINF:0 tvg-id="DisneyXD.uk" group-title="ENGLAND CHANNEL",UK:DISNEY XD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3437
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="ENGLAND CHANNEL",UK:DISNEY JUNIOR
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3436
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:DISNEY CHANNEL
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3462
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="ENGLAND CHANNEL",UK:NICKTOONS
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3466
+#EXTINF:0 tvg-id="Nickelodeon.uk" group-title="ENGLAND CHANNEL",UK:NICKELODEON
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3465
+#EXTINF:0 tvg-id="Boomerang.uk" group-title="ENGLAND CHANNEL",UK:BOOMERANG
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3417
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="ENGLAND CHANNEL",UK:COMEDY CENTRAL
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3431
+#EXTINF:0 tvg-id="CartoonNetwork.uk" group-title="ENGLAND CHANNEL",UK:CARTOON NETWORK
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3426
+#EXTINF:0 tvg-id="NatGeoWild.uk" group-title="ENGLAND CHANNEL",UK:NAT GEO WILD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3406
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:NAT GEO CH
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3460
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:HISTORY CAHNNEL
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3448
+#EXTINF:0 tvg-id="DiscoveryScience.uk" group-title="ENGLAND CHANNEL",UK:DISCOVERY SCIENCE
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3434
+#EXTINF:0 tvg-id="DiscoveryHistory.uk" group-title="ENGLAND CHANNEL",UK:DISCOVERY HISTORY
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3433
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:DISCOVERY HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3432
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="ENGLAND CHANNEL",UK:ANIMAL PLANET
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3409
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:NBA TV
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3461
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:EUROSPORT 1HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3441
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:EUROSPORT 2HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3442
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:BBC CBEESE
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3365
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:ESPN 2 HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/1092
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:SKY SPORTS NEWS HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3487
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:SKY SPORTS MIX
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3486
+#EXTINF:0 tvg-id="SkySpF1.uk" group-title="ENGLAND CHANNEL",UK:SKY SPORTS F1
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3483
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:SKY SPORTS PREMIER LEAGUE
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3488
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:SKY SPORTS MAIN EVENT
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3485
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:SKY SPORTS FOOTBALL
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3484
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:SKY SPORTS CRICKET
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3482
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:SKY SPORTS ACTION
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3481
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="ENGLAND CHANNEL",UK:BT SPORT 1 HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3418
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="ENGLAND CHANNEL",UK:BT SPORT 2 HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3419
+#EXTINF:0 tvg-id="ext" group-title="ENGLAND CHANNEL",UK:BT SPORT 3 HD
+http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/3420
